@@ -10,7 +10,7 @@
 #>
 param(
     #Zap.jar folder location 
-    $path = "c:\users\in8shami\desktop\lite",
+    $path = "c:\users\in8MriPa\desktop\lite",
     #ZAP Proxy URI
     $proxy='http://localhost:8080',
     $sleep=1,
